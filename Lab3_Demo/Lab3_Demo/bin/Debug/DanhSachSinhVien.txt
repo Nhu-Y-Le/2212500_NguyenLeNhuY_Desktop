@@ -1,0 +1,5 @@
+SV.00013*Hoàng Lâm V*ĩ9/20/1990*Bình Định*CTK34*SinhVien1.png1*Mạng truyền thông,Tin học ứng dụng
+SV.00018*Lê Thị Anh Thư*11/20/1990*Đà Lạt*CTK34*SinhVien2.png0*Công nghệ phần mềm,Hệ thống thông tin
+SV.00010*Nguyễn Thị Hoa*7/20/1990*Hà Nội*CTK34*SinhVien3.png0*Khoa học máy tính
+SV.00002*Nguyễn Văn A*10/15/1989*Đà Lạt*CTK34*SinhVien4.png1*Trí tuệ nhân tạo,Mạng truyền thông
+SV.00020*Nguyễn Văn Hùng*8/25/1992*Gia Lai*CTK34*SinhVien5.png1*Hệ thống thông tin
